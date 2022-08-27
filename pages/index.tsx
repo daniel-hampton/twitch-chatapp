@@ -15,7 +15,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <Link href="/chat">Click to chat! </Link>
+          <Link href="/chat">Say Howdy 🤠 to chat! </Link>
         </h1>
 
         <p className={`${styles.description} text-green-600`}>
